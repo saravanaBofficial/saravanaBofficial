@@ -33,6 +33,6 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (saravanbofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
